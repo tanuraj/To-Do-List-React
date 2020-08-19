@@ -1,0 +1,4 @@
+{
+  "mongoURI": "<mongodb_uri>",
+  "jwtSecret": "mysectettoken"
+}
